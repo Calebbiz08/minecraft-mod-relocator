@@ -1,2 +1,2 @@
 # minecraft-mod-relocator
-The repository for my Chrome extension Minecraft Mod Relocator
+Welcome to my repository for my extension. It's going to empty for a while because I am using this for site update testing.
